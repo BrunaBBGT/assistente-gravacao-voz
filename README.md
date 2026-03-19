@@ -1,5 +1,4 @@
 # assistente-gravacao-voz
-# 🎤 Assistente de Gravação de Voz com Barra de Progresso
 
 # 🎤 Assistente de Gravação de Voz com Barra de Progresso
 
