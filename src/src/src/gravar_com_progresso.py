@@ -1,6 +1,3 @@
-Add file → Create new file
-
-Nome: src/gravar_com_progresso.py
 import sounddevice as sd
 from scipy.io.wavfile import write
 import time
