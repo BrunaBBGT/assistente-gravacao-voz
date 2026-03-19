@@ -1,1 +1,4 @@
 requirements.txt
+sounddevice
+scipy
+gTTS
